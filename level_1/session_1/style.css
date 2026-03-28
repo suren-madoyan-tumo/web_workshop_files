@@ -1,0 +1,13 @@
+.button{
+	background-color: green;
+	color: white;
+	border-radius: 5px;
+	padding: 5px 10px;
+	text-decoration: none;
+	display: inline-block;
+}
+.nkar{
+	width: 200px;
+	display: block;
+	margin-bottom: 20px;
+}
